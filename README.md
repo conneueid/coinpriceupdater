@@ -3,4 +3,5 @@ INSTALLATION:
 pip3 install cryptocompare
 
 USAGE:
-python bitcoinupdater.py
+1. Run python bitcoinupdater.py
+2. Choose Between List Of Coins
