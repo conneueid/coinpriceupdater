@@ -1,5 +1,5 @@
 # coinpriceupdater
-INSTALLATION:
+Dependancy Installation:
 pip3 install cryptocompare
 
 USAGE:
